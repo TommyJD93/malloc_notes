@@ -10,7 +10,7 @@ Notes regarding my studies on the memory handling made by the kernel, propedeuti
 
 ## Types of storage
 
-The storage used by the programs running on a computer divides in two main types:
+The storage used by the programs running on a computer comprises two main types:
 
 - primary
 - secondary
