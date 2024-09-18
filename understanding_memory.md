@@ -6,7 +6,7 @@
 
 ## Abstract
 
-Notes regarding my studies on the memory handling made by the kernel, propedeutic for the project "malloc" fo the 42Network masteries. The goal of the project is to recreate the following functions in C lang: malloc, calloc, free. These notes will not be strict on the topic of the title.
+Notes regarding my studies on the memory handling made by the kernel, propedeutic for the project "malloc" fo the 42Network masteries. The goal of the project is to recreate the following functions in C lang: malloc, calloc, free. These notes will not be strictly about the topic of the title.
 
 ## Types of storage
 
